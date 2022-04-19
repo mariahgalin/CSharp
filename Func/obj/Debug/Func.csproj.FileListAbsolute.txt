@@ -1,0 +1,7 @@
+C:\Users\agupespi\source\repos\CSharpCourse\Func\bin\Debug\Func.exe.config
+C:\Users\agupespi\source\repos\CSharpCourse\Func\bin\Debug\Func.exe
+C:\Users\agupespi\source\repos\CSharpCourse\Func\bin\Debug\Func.pdb
+C:\Users\agupespi\source\repos\CSharpCourse\Func\obj\Debug\Func.csprojAssemblyReference.cache
+C:\Users\agupespi\source\repos\CSharpCourse\Func\obj\Debug\Func.csproj.CoreCompileInputs.cache
+C:\Users\agupespi\source\repos\CSharpCourse\Func\obj\Debug\Func.exe
+C:\Users\agupespi\source\repos\CSharpCourse\Func\obj\Debug\Func.pdb

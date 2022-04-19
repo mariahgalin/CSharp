@@ -1,0 +1,7 @@
+C:\Users\agupespi\source\repos\CSharpCourse\CSharpCourse\bin\Debug\CSharpCourse.exe.config
+C:\Users\agupespi\source\repos\CSharpCourse\CSharpCourse\bin\Debug\CSharpCourse.exe
+C:\Users\agupespi\source\repos\CSharpCourse\CSharpCourse\bin\Debug\CSharpCourse.pdb
+C:\Users\agupespi\source\repos\CSharpCourse\CSharpCourse\obj\Debug\Variables.csprojAssemblyReference.cache
+C:\Users\agupespi\source\repos\CSharpCourse\CSharpCourse\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\agupespi\source\repos\CSharpCourse\CSharpCourse\obj\Debug\CSharpCourse.exe
+C:\Users\agupespi\source\repos\CSharpCourse\CSharpCourse\obj\Debug\CSharpCourse.pdb
