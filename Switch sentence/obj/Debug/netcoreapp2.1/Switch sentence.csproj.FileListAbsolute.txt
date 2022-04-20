@@ -1,0 +1,11 @@
+C:\Users\agupespi\MyCourses\CSharp\Switch sentence\bin\Debug\netcoreapp2.1\Switch sentence.deps.json
+C:\Users\agupespi\MyCourses\CSharp\Switch sentence\bin\Debug\netcoreapp2.1\Switch sentence.runtimeconfig.json
+C:\Users\agupespi\MyCourses\CSharp\Switch sentence\bin\Debug\netcoreapp2.1\Switch sentence.runtimeconfig.dev.json
+C:\Users\agupespi\MyCourses\CSharp\Switch sentence\bin\Debug\netcoreapp2.1\Switch sentence.dll
+C:\Users\agupespi\MyCourses\CSharp\Switch sentence\bin\Debug\netcoreapp2.1\Switch sentence.pdb
+C:\Users\agupespi\MyCourses\CSharp\Switch sentence\obj\Debug\netcoreapp2.1\Switch sentence.csprojAssemblyReference.cache
+C:\Users\agupespi\MyCourses\CSharp\Switch sentence\obj\Debug\netcoreapp2.1\Switch sentence.csproj.CoreCompileInputs.cache
+C:\Users\agupespi\MyCourses\CSharp\Switch sentence\obj\Debug\netcoreapp2.1\Switch sentence.AssemblyInfoInputs.cache
+C:\Users\agupespi\MyCourses\CSharp\Switch sentence\obj\Debug\netcoreapp2.1\Switch sentence.AssemblyInfo.cs
+C:\Users\agupespi\MyCourses\CSharp\Switch sentence\obj\Debug\netcoreapp2.1\Switch sentence.dll
+C:\Users\agupespi\MyCourses\CSharp\Switch sentence\obj\Debug\netcoreapp2.1\Switch sentence.pdb

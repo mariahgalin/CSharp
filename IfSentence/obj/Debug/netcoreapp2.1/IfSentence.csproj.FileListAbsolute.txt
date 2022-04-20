@@ -1,0 +1,11 @@
+C:\Users\agupespi\MyCourses\CSharp\IfSentence\bin\Debug\netcoreapp2.1\IfSentence.deps.json
+C:\Users\agupespi\MyCourses\CSharp\IfSentence\bin\Debug\netcoreapp2.1\IfSentence.runtimeconfig.json
+C:\Users\agupespi\MyCourses\CSharp\IfSentence\bin\Debug\netcoreapp2.1\IfSentence.runtimeconfig.dev.json
+C:\Users\agupespi\MyCourses\CSharp\IfSentence\bin\Debug\netcoreapp2.1\IfSentence.dll
+C:\Users\agupespi\MyCourses\CSharp\IfSentence\bin\Debug\netcoreapp2.1\IfSentence.pdb
+C:\Users\agupespi\MyCourses\CSharp\IfSentence\obj\Debug\netcoreapp2.1\IfSentence.csprojAssemblyReference.cache
+C:\Users\agupespi\MyCourses\CSharp\IfSentence\obj\Debug\netcoreapp2.1\IfSentence.csproj.CoreCompileInputs.cache
+C:\Users\agupespi\MyCourses\CSharp\IfSentence\obj\Debug\netcoreapp2.1\IfSentence.AssemblyInfoInputs.cache
+C:\Users\agupespi\MyCourses\CSharp\IfSentence\obj\Debug\netcoreapp2.1\IfSentence.AssemblyInfo.cs
+C:\Users\agupespi\MyCourses\CSharp\IfSentence\obj\Debug\netcoreapp2.1\IfSentence.dll
+C:\Users\agupespi\MyCourses\CSharp\IfSentence\obj\Debug\netcoreapp2.1\IfSentence.pdb
