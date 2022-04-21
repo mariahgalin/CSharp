@@ -1,0 +1,10 @@
+C:\Users\agupespi\MyCourses\CSharp\Arrays\bin\Debug\netcoreapp2.1\Arrays.deps.json
+C:\Users\agupespi\MyCourses\CSharp\Arrays\bin\Debug\netcoreapp2.1\Arrays.runtimeconfig.json
+C:\Users\agupespi\MyCourses\CSharp\Arrays\bin\Debug\netcoreapp2.1\Arrays.runtimeconfig.dev.json
+C:\Users\agupespi\MyCourses\CSharp\Arrays\bin\Debug\netcoreapp2.1\Arrays.dll
+C:\Users\agupespi\MyCourses\CSharp\Arrays\bin\Debug\netcoreapp2.1\Arrays.pdb
+C:\Users\agupespi\MyCourses\CSharp\Arrays\obj\Debug\netcoreapp2.1\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\agupespi\MyCourses\CSharp\Arrays\obj\Debug\netcoreapp2.1\Arrays.AssemblyInfoInputs.cache
+C:\Users\agupespi\MyCourses\CSharp\Arrays\obj\Debug\netcoreapp2.1\Arrays.AssemblyInfo.cs
+C:\Users\agupespi\MyCourses\CSharp\Arrays\obj\Debug\netcoreapp2.1\Arrays.dll
+C:\Users\agupespi\MyCourses\CSharp\Arrays\obj\Debug\netcoreapp2.1\Arrays.pdb

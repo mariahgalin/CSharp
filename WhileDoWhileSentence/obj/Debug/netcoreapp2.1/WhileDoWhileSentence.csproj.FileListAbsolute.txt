@@ -1,0 +1,11 @@
+C:\Users\agupespi\MyCourses\CSharp\WhileDoWhileSentence\bin\Debug\netcoreapp2.1\WhileDoWhileSentence.deps.json
+C:\Users\agupespi\MyCourses\CSharp\WhileDoWhileSentence\bin\Debug\netcoreapp2.1\WhileDoWhileSentence.runtimeconfig.json
+C:\Users\agupespi\MyCourses\CSharp\WhileDoWhileSentence\bin\Debug\netcoreapp2.1\WhileDoWhileSentence.runtimeconfig.dev.json
+C:\Users\agupespi\MyCourses\CSharp\WhileDoWhileSentence\bin\Debug\netcoreapp2.1\WhileDoWhileSentence.dll
+C:\Users\agupespi\MyCourses\CSharp\WhileDoWhileSentence\bin\Debug\netcoreapp2.1\WhileDoWhileSentence.pdb
+C:\Users\agupespi\MyCourses\CSharp\WhileDoWhileSentence\obj\Debug\netcoreapp2.1\WhileDoWhileSentence.csproj.CoreCompileInputs.cache
+C:\Users\agupespi\MyCourses\CSharp\WhileDoWhileSentence\obj\Debug\netcoreapp2.1\WhileDoWhileSentence.AssemblyInfoInputs.cache
+C:\Users\agupespi\MyCourses\CSharp\WhileDoWhileSentence\obj\Debug\netcoreapp2.1\WhileDoWhileSentence.AssemblyInfo.cs
+C:\Users\agupespi\MyCourses\CSharp\WhileDoWhileSentence\obj\Debug\netcoreapp2.1\WhileDoWhileSentence.dll
+C:\Users\agupespi\MyCourses\CSharp\WhileDoWhileSentence\obj\Debug\netcoreapp2.1\WhileDoWhileSentence.pdb
+C:\Users\agupespi\MyCourses\CSharp\WhileDoWhileSentence\obj\Debug\netcoreapp2.1\WhileDoWhileSentence.csprojAssemblyReference.cache
