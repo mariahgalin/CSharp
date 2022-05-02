@@ -1,0 +1,10 @@
+C:\Users\agupespi\MyCourses\CSharp\ForSentence\bin\Debug\netcoreapp2.1\ForSentence.deps.json
+C:\Users\agupespi\MyCourses\CSharp\ForSentence\bin\Debug\netcoreapp2.1\ForSentence.runtimeconfig.json
+C:\Users\agupespi\MyCourses\CSharp\ForSentence\bin\Debug\netcoreapp2.1\ForSentence.runtimeconfig.dev.json
+C:\Users\agupespi\MyCourses\CSharp\ForSentence\bin\Debug\netcoreapp2.1\ForSentence.dll
+C:\Users\agupespi\MyCourses\CSharp\ForSentence\bin\Debug\netcoreapp2.1\ForSentence.pdb
+C:\Users\agupespi\MyCourses\CSharp\ForSentence\obj\Debug\netcoreapp2.1\ForSentence.csproj.CoreCompileInputs.cache
+C:\Users\agupespi\MyCourses\CSharp\ForSentence\obj\Debug\netcoreapp2.1\ForSentence.AssemblyInfoInputs.cache
+C:\Users\agupespi\MyCourses\CSharp\ForSentence\obj\Debug\netcoreapp2.1\ForSentence.AssemblyInfo.cs
+C:\Users\agupespi\MyCourses\CSharp\ForSentence\obj\Debug\netcoreapp2.1\ForSentence.dll
+C:\Users\agupespi\MyCourses\CSharp\ForSentence\obj\Debug\netcoreapp2.1\ForSentence.pdb
