@@ -1,0 +1,11 @@
+C:\Users\agupespi\MyCourses\CSharp\Properties\bin\Debug\netcoreapp2.1\Properties.deps.json
+C:\Users\agupespi\MyCourses\CSharp\Properties\bin\Debug\netcoreapp2.1\Properties.runtimeconfig.json
+C:\Users\agupespi\MyCourses\CSharp\Properties\bin\Debug\netcoreapp2.1\Properties.runtimeconfig.dev.json
+C:\Users\agupespi\MyCourses\CSharp\Properties\bin\Debug\netcoreapp2.1\Properties.dll
+C:\Users\agupespi\MyCourses\CSharp\Properties\bin\Debug\netcoreapp2.1\Properties.pdb
+C:\Users\agupespi\MyCourses\CSharp\Properties\obj\Debug\netcoreapp2.1\Properties.csproj.CoreCompileInputs.cache
+C:\Users\agupespi\MyCourses\CSharp\Properties\obj\Debug\netcoreapp2.1\Properties.AssemblyInfoInputs.cache
+C:\Users\agupespi\MyCourses\CSharp\Properties\obj\Debug\netcoreapp2.1\Properties.AssemblyInfo.cs
+C:\Users\agupespi\MyCourses\CSharp\Properties\obj\Debug\netcoreapp2.1\Properties.dll
+C:\Users\agupespi\MyCourses\CSharp\Properties\obj\Debug\netcoreapp2.1\Properties.pdb
+C:\Users\agupespi\MyCourses\CSharp\Properties\obj\Debug\netcoreapp2.1\Properties.csprojAssemblyReference.cache

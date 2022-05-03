@@ -1,0 +1,11 @@
+C:\Users\agupespi\MyCourses\CSharp\Hierarchy\bin\Debug\netcoreapp2.1\Hierarchy.deps.json
+C:\Users\agupespi\MyCourses\CSharp\Hierarchy\bin\Debug\netcoreapp2.1\Hierarchy.runtimeconfig.json
+C:\Users\agupespi\MyCourses\CSharp\Hierarchy\bin\Debug\netcoreapp2.1\Hierarchy.runtimeconfig.dev.json
+C:\Users\agupespi\MyCourses\CSharp\Hierarchy\bin\Debug\netcoreapp2.1\Hierarchy.dll
+C:\Users\agupespi\MyCourses\CSharp\Hierarchy\bin\Debug\netcoreapp2.1\Hierarchy.pdb
+C:\Users\agupespi\MyCourses\CSharp\Hierarchy\obj\Debug\netcoreapp2.1\Hierarchy.csprojAssemblyReference.cache
+C:\Users\agupespi\MyCourses\CSharp\Hierarchy\obj\Debug\netcoreapp2.1\Hierarchy.csproj.CoreCompileInputs.cache
+C:\Users\agupespi\MyCourses\CSharp\Hierarchy\obj\Debug\netcoreapp2.1\Hierarchy.AssemblyInfoInputs.cache
+C:\Users\agupespi\MyCourses\CSharp\Hierarchy\obj\Debug\netcoreapp2.1\Hierarchy.AssemblyInfo.cs
+C:\Users\agupespi\MyCourses\CSharp\Hierarchy\obj\Debug\netcoreapp2.1\Hierarchy.dll
+C:\Users\agupespi\MyCourses\CSharp\Hierarchy\obj\Debug\netcoreapp2.1\Hierarchy.pdb

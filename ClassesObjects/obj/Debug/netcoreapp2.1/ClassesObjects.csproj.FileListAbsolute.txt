@@ -1,0 +1,11 @@
+C:\Users\agupespi\MyCourses\CSharp\ClassesObjects\bin\Debug\netcoreapp2.1\ClassesObjects.deps.json
+C:\Users\agupespi\MyCourses\CSharp\ClassesObjects\bin\Debug\netcoreapp2.1\ClassesObjects.runtimeconfig.json
+C:\Users\agupespi\MyCourses\CSharp\ClassesObjects\bin\Debug\netcoreapp2.1\ClassesObjects.runtimeconfig.dev.json
+C:\Users\agupespi\MyCourses\CSharp\ClassesObjects\bin\Debug\netcoreapp2.1\ClassesObjects.dll
+C:\Users\agupespi\MyCourses\CSharp\ClassesObjects\bin\Debug\netcoreapp2.1\ClassesObjects.pdb
+C:\Users\agupespi\MyCourses\CSharp\ClassesObjects\obj\Debug\netcoreapp2.1\ClassesObjects.csprojAssemblyReference.cache
+C:\Users\agupespi\MyCourses\CSharp\ClassesObjects\obj\Debug\netcoreapp2.1\ClassesObjects.csproj.CoreCompileInputs.cache
+C:\Users\agupespi\MyCourses\CSharp\ClassesObjects\obj\Debug\netcoreapp2.1\ClassesObjects.AssemblyInfoInputs.cache
+C:\Users\agupespi\MyCourses\CSharp\ClassesObjects\obj\Debug\netcoreapp2.1\ClassesObjects.AssemblyInfo.cs
+C:\Users\agupespi\MyCourses\CSharp\ClassesObjects\obj\Debug\netcoreapp2.1\ClassesObjects.dll
+C:\Users\agupespi\MyCourses\CSharp\ClassesObjects\obj\Debug\netcoreapp2.1\ClassesObjects.pdb
