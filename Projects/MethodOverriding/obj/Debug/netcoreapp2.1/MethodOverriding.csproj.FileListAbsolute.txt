@@ -1,0 +1,10 @@
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\MethodOverriding\bin\Debug\netcoreapp2.1\MethodOverriding.deps.json
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\MethodOverriding\bin\Debug\netcoreapp2.1\MethodOverriding.runtimeconfig.json
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\MethodOverriding\bin\Debug\netcoreapp2.1\MethodOverriding.runtimeconfig.dev.json
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\MethodOverriding\bin\Debug\netcoreapp2.1\MethodOverriding.dll
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\MethodOverriding\bin\Debug\netcoreapp2.1\MethodOverriding.pdb
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\MethodOverriding\obj\Debug\netcoreapp2.1\MethodOverriding.csproj.CoreCompileInputs.cache
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\MethodOverriding\obj\Debug\netcoreapp2.1\MethodOverriding.AssemblyInfoInputs.cache
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\MethodOverriding\obj\Debug\netcoreapp2.1\MethodOverriding.AssemblyInfo.cs
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\MethodOverriding\obj\Debug\netcoreapp2.1\MethodOverriding.dll
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\MethodOverriding\obj\Debug\netcoreapp2.1\MethodOverriding.pdb
