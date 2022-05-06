@@ -27,7 +27,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Projects\Varia
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileDoWhileSentence", "Projects\WhileDoWhileSentence\WhileDoWhileSentence.csproj", "{7FB978E6-B6DE-45AE-9FED-9D071CBEEA67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverriding", "Projects\MethodOverriding\MethodOverriding.csproj", "{F9A18AD7-28EE-4B67-941C-4ECA5FC95708}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodOverriding", "Projects\MethodOverriding\MethodOverriding.csproj", "{F9A18AD7-28EE-4B67-941C-4ECA5FC95708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static", "Projects\Static\Static.csproj", "{C498431E-DA47-4A5D-B233-34A37BECAC83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{F9A18AD7-28EE-4B67-941C-4ECA5FC95708}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9A18AD7-28EE-4B67-941C-4ECA5FC95708}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9A18AD7-28EE-4B67-941C-4ECA5FC95708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C498431E-DA47-4A5D-B233-34A37BECAC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C498431E-DA47-4A5D-B233-34A37BECAC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C498431E-DA47-4A5D-B233-34A37BECAC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C498431E-DA47-4A5D-B233-34A37BECAC83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
