@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\agupespi\\.nuget\\packages\\": {},
+    "C:\\Users\\maria.galindo\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\agupespi\\Personal\\Courses\\CSharp\\Projects\\WhileDoWhileSentence\\WhileDoWhileSentence.csproj",
+      "projectUniqueName": "C:\\Users\\maria.galindo\\Personal\\Courses\\CSharp\\Projects\\WhileDoWhileSentence\\WhileDoWhileSentence.csproj",
       "projectName": "WhileDoWhileSentence",
-      "projectPath": "C:\\Users\\agupespi\\Personal\\Courses\\CSharp\\Projects\\WhileDoWhileSentence\\WhileDoWhileSentence.csproj",
-      "packagesPath": "C:\\Users\\agupespi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\agupespi\\Personal\\Courses\\CSharp\\Projects\\WhileDoWhileSentence\\obj\\",
+      "projectPath": "C:\\Users\\maria.galindo\\Personal\\Courses\\CSharp\\Projects\\WhileDoWhileSentence\\WhileDoWhileSentence.csproj",
+      "packagesPath": "C:\\Users\\maria.galindo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\maria.galindo\\Personal\\Courses\\CSharp\\Projects\\WhileDoWhileSentence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\agupespi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\maria.galindo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
