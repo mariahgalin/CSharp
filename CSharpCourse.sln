@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodOverriding", "Project
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Static", "Projects\Static\Static.csproj", "{C498431E-DA47-4A5D-B233-34A37BECAC83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Projects\Interfaces\Interfaces.csproj", "{7AA53808-C3CC-407B-8311-E8A905333917}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Projects\Interfaces\Interfaces.csproj", "{7AA53808-C3CC-407B-8311-E8A905333917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Projects\Generics\Generics.csproj", "{D0693EBC-0C1A-4D0B-A5DB-FC143F10F450}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{7AA53808-C3CC-407B-8311-E8A905333917}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AA53808-C3CC-407B-8311-E8A905333917}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AA53808-C3CC-407B-8311-E8A905333917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0693EBC-0C1A-4D0B-A5DB-FC143F10F450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0693EBC-0C1A-4D0B-A5DB-FC143F10F450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0693EBC-0C1A-4D0B-A5DB-FC143F10F450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0693EBC-0C1A-4D0B-A5DB-FC143F10F450}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
