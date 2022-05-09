@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Static", "Projects\Static\S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Projects\Interfaces\Interfaces.csproj", "{7AA53808-C3CC-407B-8311-E8A905333917}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Projects\Generics\Generics.csproj", "{D0693EBC-0C1A-4D0B-A5DB-FC143F10F450}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Projects\Generics\Generics.csproj", "{D0693EBC-0C1A-4D0B-A5DB-FC143F10F450}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONFormat", "Projects\JSONFormat\JSONFormat.csproj", "{1704C39C-23DD-49EC-8D29-B590909B0AA6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{D0693EBC-0C1A-4D0B-A5DB-FC143F10F450}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0693EBC-0C1A-4D0B-A5DB-FC143F10F450}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0693EBC-0C1A-4D0B-A5DB-FC143F10F450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1704C39C-23DD-49EC-8D29-B590909B0AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1704C39C-23DD-49EC-8D29-B590909B0AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1704C39C-23DD-49EC-8D29-B590909B0AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1704C39C-23DD-49EC-8D29-B590909B0AA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

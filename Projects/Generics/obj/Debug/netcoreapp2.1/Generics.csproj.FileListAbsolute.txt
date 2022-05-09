@@ -9,3 +9,14 @@ C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Generics\obj\Debug\netco
 C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Generics\obj\Debug\netcoreapp2.1\Generics.dll
 C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Generics\obj\Debug\netcoreapp2.1\Generics.pdb
 C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Generics\obj\Debug\netcoreapp2.1\Generics.csprojAssemblyReference.cache
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\Generics\bin\Debug\netcoreapp2.1\Generics.deps.json
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\Generics\bin\Debug\netcoreapp2.1\Generics.runtimeconfig.json
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\Generics\bin\Debug\netcoreapp2.1\Generics.runtimeconfig.dev.json
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\Generics\bin\Debug\netcoreapp2.1\Generics.dll
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\Generics\bin\Debug\netcoreapp2.1\Generics.pdb
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\Generics\obj\Debug\netcoreapp2.1\Generics.csprojAssemblyReference.cache
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\Generics\obj\Debug\netcoreapp2.1\Generics.csproj.CoreCompileInputs.cache
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\Generics\obj\Debug\netcoreapp2.1\Generics.AssemblyInfoInputs.cache
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\Generics\obj\Debug\netcoreapp2.1\Generics.AssemblyInfo.cs
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\Generics\obj\Debug\netcoreapp2.1\Generics.dll
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\Generics\obj\Debug\netcoreapp2.1\Generics.pdb

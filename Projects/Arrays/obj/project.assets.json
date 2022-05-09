@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\maria.galindo\\.nuget\\packages\\": {},
+    "C:\\Users\\agupespi\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maria.galindo\\Personal\\Courses\\CSharp\\Projects\\Arrays\\Arrays.csproj",
+      "projectUniqueName": "C:\\Users\\agupespi\\Personal\\Courses\\CSharp\\Projects\\Arrays\\Arrays.csproj",
       "projectName": "Arrays",
-      "projectPath": "C:\\Users\\maria.galindo\\Personal\\Courses\\CSharp\\Projects\\Arrays\\Arrays.csproj",
-      "packagesPath": "C:\\Users\\maria.galindo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maria.galindo\\Personal\\Courses\\CSharp\\Projects\\Arrays\\obj\\",
+      "projectPath": "C:\\Users\\agupespi\\Personal\\Courses\\CSharp\\Projects\\Arrays\\Arrays.csproj",
+      "packagesPath": "C:\\Users\\agupespi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\agupespi\\Personal\\Courses\\CSharp\\Projects\\Arrays\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\maria.galindo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\agupespi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
