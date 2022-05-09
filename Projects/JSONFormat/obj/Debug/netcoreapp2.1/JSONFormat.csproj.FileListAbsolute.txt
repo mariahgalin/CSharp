@@ -1,0 +1,11 @@
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\JSONFormat\bin\Debug\netcoreapp2.1\JSONFormat.deps.json
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\JSONFormat\bin\Debug\netcoreapp2.1\JSONFormat.runtimeconfig.json
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\JSONFormat\bin\Debug\netcoreapp2.1\JSONFormat.runtimeconfig.dev.json
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\JSONFormat\bin\Debug\netcoreapp2.1\JSONFormat.dll
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\JSONFormat\obj\Debug\netcoreapp2.1\JSONFormat.csprojAssemblyReference.cache
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\JSONFormat\obj\Debug\netcoreapp2.1\JSONFormat.csproj.CoreCompileInputs.cache
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\JSONFormat\obj\Debug\netcoreapp2.1\JSONFormat.AssemblyInfoInputs.cache
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\JSONFormat\obj\Debug\netcoreapp2.1\JSONFormat.AssemblyInfo.cs
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\JSONFormat\bin\Debug\netcoreapp2.1\JSONFormat.pdb
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\JSONFormat\obj\Debug\netcoreapp2.1\JSONFormat.dll
+C:\Users\agupespi\Personal\Courses\CSharp\Projects\JSONFormat\obj\Debug\netcoreapp2.1\JSONFormat.pdb
