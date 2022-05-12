@@ -1,0 +1,10 @@
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\ForEachSentence\bin\Debug\netcoreapp2.1\ForEachSentence.deps.json
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\ForEachSentence\bin\Debug\netcoreapp2.1\ForEachSentence.runtimeconfig.json
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\ForEachSentence\bin\Debug\netcoreapp2.1\ForEachSentence.runtimeconfig.dev.json
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\ForEachSentence\bin\Debug\netcoreapp2.1\ForEachSentence.dll
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\ForEachSentence\bin\Debug\netcoreapp2.1\ForEachSentence.pdb
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\ForEachSentence\obj\Debug\netcoreapp2.1\ForEachSentence.csproj.CoreCompileInputs.cache
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\ForEachSentence\obj\Debug\netcoreapp2.1\ForEachSentence.AssemblyInfoInputs.cache
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\ForEachSentence\obj\Debug\netcoreapp2.1\ForEachSentence.AssemblyInfo.cs
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\ForEachSentence\obj\Debug\netcoreapp2.1\ForEachSentence.dll
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\ForEachSentence\obj\Debug\netcoreapp2.1\ForEachSentence.pdb
