@@ -1,0 +1,10 @@
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\ListCommonMethods\bin\Debug\netcoreapp2.1\ListCommonMethods.deps.json
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\ListCommonMethods\bin\Debug\netcoreapp2.1\ListCommonMethods.runtimeconfig.json
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\ListCommonMethods\bin\Debug\netcoreapp2.1\ListCommonMethods.runtimeconfig.dev.json
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\ListCommonMethods\bin\Debug\netcoreapp2.1\ListCommonMethods.dll
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\ListCommonMethods\bin\Debug\netcoreapp2.1\ListCommonMethods.pdb
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\ListCommonMethods\obj\Debug\netcoreapp2.1\ListCommonMethods.csproj.CoreCompileInputs.cache
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\ListCommonMethods\obj\Debug\netcoreapp2.1\ListCommonMethods.AssemblyInfoInputs.cache
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\ListCommonMethods\obj\Debug\netcoreapp2.1\ListCommonMethods.AssemblyInfo.cs
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\ListCommonMethods\obj\Debug\netcoreapp2.1\ListCommonMethods.dll
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\ListCommonMethods\obj\Debug\netcoreapp2.1\ListCommonMethods.pdb
