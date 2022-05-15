@@ -1,0 +1,10 @@
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Anonymous\bin\Debug\netcoreapp2.1\Anonymous.deps.json
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Anonymous\bin\Debug\netcoreapp2.1\Anonymous.runtimeconfig.json
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Anonymous\bin\Debug\netcoreapp2.1\Anonymous.runtimeconfig.dev.json
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Anonymous\bin\Debug\netcoreapp2.1\Anonymous.dll
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Anonymous\bin\Debug\netcoreapp2.1\Anonymous.pdb
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Anonymous\obj\Debug\netcoreapp2.1\Anonymous.csproj.CoreCompileInputs.cache
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Anonymous\obj\Debug\netcoreapp2.1\Anonymous.AssemblyInfoInputs.cache
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Anonymous\obj\Debug\netcoreapp2.1\Anonymous.AssemblyInfo.cs
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Anonymous\obj\Debug\netcoreapp2.1\Anonymous.dll
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Anonymous\obj\Debug\netcoreapp2.1\Anonymous.pdb
