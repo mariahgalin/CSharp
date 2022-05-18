@@ -1,0 +1,10 @@
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Tuples\bin\Debug\netcoreapp2.1\Tuples.deps.json
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Tuples\bin\Debug\netcoreapp2.1\Tuples.runtimeconfig.json
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Tuples\bin\Debug\netcoreapp2.1\Tuples.runtimeconfig.dev.json
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Tuples\bin\Debug\netcoreapp2.1\Tuples.dll
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Tuples\bin\Debug\netcoreapp2.1\Tuples.pdb
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Tuples\obj\Debug\netcoreapp2.1\Tuples.csproj.CoreCompileInputs.cache
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Tuples\obj\Debug\netcoreapp2.1\Tuples.AssemblyInfoInputs.cache
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Tuples\obj\Debug\netcoreapp2.1\Tuples.AssemblyInfo.cs
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Tuples\obj\Debug\netcoreapp2.1\Tuples.dll
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Tuples\obj\Debug\netcoreapp2.1\Tuples.pdb
