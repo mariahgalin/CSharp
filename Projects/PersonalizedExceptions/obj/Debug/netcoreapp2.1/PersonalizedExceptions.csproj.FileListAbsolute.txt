@@ -1,0 +1,10 @@
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\PersonalizedExceptions\bin\Debug\netcoreapp2.1\PersonalizedExceptions.deps.json
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\PersonalizedExceptions\bin\Debug\netcoreapp2.1\PersonalizedExceptions.runtimeconfig.json
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\PersonalizedExceptions\bin\Debug\netcoreapp2.1\PersonalizedExceptions.runtimeconfig.dev.json
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\PersonalizedExceptions\bin\Debug\netcoreapp2.1\PersonalizedExceptions.dll
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\PersonalizedExceptions\bin\Debug\netcoreapp2.1\PersonalizedExceptions.pdb
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\PersonalizedExceptions\obj\Debug\netcoreapp2.1\PersonalizedExceptions.csproj.CoreCompileInputs.cache
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\PersonalizedExceptions\obj\Debug\netcoreapp2.1\PersonalizedExceptions.AssemblyInfoInputs.cache
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\PersonalizedExceptions\obj\Debug\netcoreapp2.1\PersonalizedExceptions.AssemblyInfo.cs
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\PersonalizedExceptions\obj\Debug\netcoreapp2.1\PersonalizedExceptions.dll
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\PersonalizedExceptions\obj\Debug\netcoreapp2.1\PersonalizedExceptions.pdb
