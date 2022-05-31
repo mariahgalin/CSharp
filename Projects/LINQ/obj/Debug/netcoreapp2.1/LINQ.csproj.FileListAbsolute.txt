@@ -1,0 +1,10 @@
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\LINQ\bin\Debug\netcoreapp2.1\LINQ.deps.json
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\LINQ\bin\Debug\netcoreapp2.1\LINQ.runtimeconfig.json
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\LINQ\bin\Debug\netcoreapp2.1\LINQ.runtimeconfig.dev.json
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\LINQ\bin\Debug\netcoreapp2.1\LINQ.dll
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\LINQ\bin\Debug\netcoreapp2.1\LINQ.pdb
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\LINQ\obj\Debug\netcoreapp2.1\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\LINQ\obj\Debug\netcoreapp2.1\LINQ.AssemblyInfoInputs.cache
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\LINQ\obj\Debug\netcoreapp2.1\LINQ.AssemblyInfo.cs
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\LINQ\obj\Debug\netcoreapp2.1\LINQ.dll
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\LINQ\obj\Debug\netcoreapp2.1\LINQ.pdb

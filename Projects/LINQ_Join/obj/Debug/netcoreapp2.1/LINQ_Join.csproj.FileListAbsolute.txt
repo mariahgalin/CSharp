@@ -1,0 +1,11 @@
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\LINQ_Join\bin\Debug\netcoreapp2.1\LINQ_Join.deps.json
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\LINQ_Join\bin\Debug\netcoreapp2.1\LINQ_Join.runtimeconfig.json
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\LINQ_Join\bin\Debug\netcoreapp2.1\LINQ_Join.runtimeconfig.dev.json
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\LINQ_Join\bin\Debug\netcoreapp2.1\LINQ_Join.dll
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\LINQ_Join\bin\Debug\netcoreapp2.1\LINQ_Join.pdb
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\LINQ_Join\obj\Debug\netcoreapp2.1\LINQ_Join.csprojAssemblyReference.cache
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\LINQ_Join\obj\Debug\netcoreapp2.1\LINQ_Join.csproj.CoreCompileInputs.cache
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\LINQ_Join\obj\Debug\netcoreapp2.1\LINQ_Join.AssemblyInfoInputs.cache
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\LINQ_Join\obj\Debug\netcoreapp2.1\LINQ_Join.AssemblyInfo.cs
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\LINQ_Join\obj\Debug\netcoreapp2.1\LINQ_Join.dll
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\LINQ_Join\obj\Debug\netcoreapp2.1\LINQ_Join.pdb
