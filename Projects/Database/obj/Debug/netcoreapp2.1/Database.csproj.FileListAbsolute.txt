@@ -1,0 +1,11 @@
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Database\bin\Debug\netcoreapp2.1\Database.deps.json
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Database\bin\Debug\netcoreapp2.1\Database.runtimeconfig.json
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Database\bin\Debug\netcoreapp2.1\Database.runtimeconfig.dev.json
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Database\bin\Debug\netcoreapp2.1\Database.dll
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Database\obj\Debug\netcoreapp2.1\Database.csproj.CoreCompileInputs.cache
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfoInputs.cache
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfo.cs
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Database\bin\Debug\netcoreapp2.1\Database.pdb
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Database\obj\Debug\netcoreapp2.1\Database.csprojAssemblyReference.cache
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Database\obj\Debug\netcoreapp2.1\Database.dll
+C:\Users\maria.galindo\Personal\Courses\CSharp\Projects\Database\obj\Debug\netcoreapp2.1\Database.pdb
