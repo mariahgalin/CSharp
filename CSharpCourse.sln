@@ -51,9 +51,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exceptions", "Projects\Exce
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonalizedExceptions", "Projects\PersonalizedExceptions\PersonalizedExceptions.csproj", "{5ED61E57-B99B-43EC-9897-CD21673829AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "Projects\LINQ\LINQ.csproj", "{777B8F8F-7AC8-407E-A528-87B1F0FCDDA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ", "Projects\LINQ\LINQ.csproj", "{777B8F8F-7AC8-407E-A528-87B1F0FCDDA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_Join", "Projects\LINQ_Join\LINQ_Join.csproj", "{863A6B3C-2DEE-46ED-89EE-8B5B6A297C4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ_Join", "Projects\LINQ_Join\LINQ_Join.csproj", "{863A6B3C-2DEE-46ED-89EE-8B5B6A297C4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "Projects\Database\Database.csproj", "{F1CC42CA-C981-4FAF-9E8B-15FA4049C525}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{863A6B3C-2DEE-46ED-89EE-8B5B6A297C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{863A6B3C-2DEE-46ED-89EE-8B5B6A297C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{863A6B3C-2DEE-46ED-89EE-8B5B6A297C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1CC42CA-C981-4FAF-9E8B-15FA4049C525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1CC42CA-C981-4FAF-9E8B-15FA4049C525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1CC42CA-C981-4FAF-9E8B-15FA4049C525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1CC42CA-C981-4FAF-9E8B-15FA4049C525}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
