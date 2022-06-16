@@ -16,5 +16,10 @@ namespace Database
             this.Name = name;
             this.BrandId = brandId;
         }
+        public Wine(string name, int brandId)
+        {
+            this.Name = name;
+            this.BrandId = brandId;
+        }
     }
 }

@@ -33,5 +33,20 @@ namespace Database
 
             return wine;
         }
+
+        public void Add(Wine wine)
+        {
+            Connect();
+
+            string query = "INSERT INTO Wine(Name, BrandId) " +
+                "VALUES (@name, @brandId)";
+
+            SqlCommand command = new SqlCommand(query, _connection);
+            command.Parameters.AddWithValue("@name", wine.Name);
+            command.Parameters.AddWithValue("brandId", wine.BrandId);
+            command.ExecuteNonQuery();
+
+            Close();
+        }
     }
 }
